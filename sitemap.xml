@@ -6,23 +6,23 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.apexacademicwriting.com/faq.html</loc>
+    <loc>https://www.apexacademicwriting.com/terms.html</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.apexacademicwriting.com/privacy-policy.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.apexacademicwriting.com/refund-policy.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.apexacademicwriting.com/terms.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <loc>https://www.apexacademicwriting.com/faq.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
